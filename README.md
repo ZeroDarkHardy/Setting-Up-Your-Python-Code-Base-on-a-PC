@@ -1,5 +1,5 @@
 # Setting Up Your Python Code Base on a PC
-
+Author: Matt Hardy, 12/19/2024
 ## Table of Contents
 - [Introduction](#introduction)
 - [Downloading and Installing Anaconda](#downloading-and-installing-anaconda)
