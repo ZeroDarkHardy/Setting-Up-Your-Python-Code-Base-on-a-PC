@@ -88,12 +88,15 @@ This guide will walk you through setting up your Python coding environment on a 
   ```bash
   conda activate dev
   ```
+- Before using `pip install` for any new packages, ensure that the `dev` environment is activated to avoid installation issues.
+- Use the **Anaconda Prompt** exclusively for managing environments and running Python-related commands.
+  - Use **GitBash** exclusively for Git-related operations such as cloning, pulling, and pushing repositories.
+  - For detailed instructions on how to navigate using Anaconda Prompt and GitBash, refer to the following repository: [Basic Command Line Navigation for PC Users](https://github.com/ZeroDarkHardy/Basic-Command-Line-Navigation-for-PC-Users).
 - If you need to exit the environment, use:
   ```bash
   conda deactivate
   ```
 - Remember to keep Conda updated periodically to avoid compatibility issues.
-- Use the **Anaconda Prompt** exclusively for managing environments and running commands as described in this guide.
 
 With this setup, you are now ready to begin your coursework. If you encounter any issues, reach out to your instructional staff for assistance.
 
