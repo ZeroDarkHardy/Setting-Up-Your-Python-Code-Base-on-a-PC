@@ -50,6 +50,8 @@ This guide will walk you through setting up your Python coding environment on a 
 1. Run the following commands to ensure Conda and Anaconda are up-to-date:
    ```bash
    conda update conda
+   ```
+   ```bash
    conda update anaconda
    ```
    Run each line individually by pressing `Enter` after each command.
